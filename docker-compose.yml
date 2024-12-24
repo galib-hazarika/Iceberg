@@ -2,7 +2,7 @@
 # Notebook - Iceberg - Nessie Setup
 ###########################################
 
-version: "3"
+#version: "2.8.1"
 
 services:
   # Spark Notebook Server
